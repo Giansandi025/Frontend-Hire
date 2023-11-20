@@ -103,6 +103,7 @@ npm install
 
 - [`BACKEND HIRE JOB`](https://github.com/rizkysyp/hireapp-be)
 - [`FRONTEND HIRE JOB`](https://github.com/rizkysyp/HireApp---FrontEnd)
+- [`DEMO`](hire-app-front-end.vercel.app)
 
 
 ## Our Team
