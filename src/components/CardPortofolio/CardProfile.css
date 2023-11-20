@@ -1,0 +1,39 @@
+section .card2 .image2 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}
+
+.card2 {
+  position: relative;
+  border-radius: 20px;
+  background: #fff;
+  margin: 20px 0;
+}
+
+.card2::before {
+  content: "";
+  position: absolute;
+  height: 55%;
+  width: 100%;
+  background: #fff;
+  border-radius: 20px 20px 0 0;
+}
+
+.card2 .card-content2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  position: relative;
+  z-index: 100;
+}
+section .card2 .image2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  padding: 3px;
+  background: #fbb017;
+}
