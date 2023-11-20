@@ -101,8 +101,8 @@ npm install
 
 ## Related Project
 
-- [`BACKEND HIRE JOB`](https://github.com/rizkysyp/hireapp-be)
-- [`FRONTEND HIRE JOB`](https://github.com/rizkysyp/HireApp---FrontEnd)
+- [`BACKEND HIRE JOB`](https://github.com/Giansandi025/Backend-Hire)
+- [`FRONTEND HIRE JOB`](https://github.com/Giansandi025/Frontend-Hire)
 - [`DEMO`](https://hire-app-front-end.vercel.app/landingPage)
 
 
